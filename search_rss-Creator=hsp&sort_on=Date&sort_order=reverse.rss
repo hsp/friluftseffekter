@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+         xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://friluftseffekter2009.dk/search_rss">
+  <title>Friluftseffekter</title>
+  <link>http://friluftseffekter2009.dk</link>
+  
+  <description>
+    
+            These are the search results for the site for the query, showing results 0 to 15.
+        
+  </description>
+  
+  
+  
+  
+  <image rdf:resource="http://friluftseffekter2009.dk/logo.jpg"/>
+
+  <items>
+    <rdf:Seq>
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/all/videnblade_friluftseffekter_samlet_print.pdf"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/all/videnblade_friluftseffekter_samlet_web.pdf"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/pdf.2013-11-12.1379170465"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2010-08-16.5652170195"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.4860085271/results/pdf.2010-03-01.4494003053"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2010-02-09.1735322401"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2010-02-09.8644090357"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2010-02-09.4027343845"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2010-02-09.2906941386"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.4860085271/results/pdf.2009-12-17.5109491764"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2009-12-17.0540621293"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2009-12-17.9799979708"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/pdf.2009-01-14.7382828457"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/pdf.2009-01-14.6369847265"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2008-12-01.4458395288"/>
+        
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+    <item rdf:about="http://friluftseffekter2009.dk/all/videnblade_friluftseffekter_samlet_print.pdf">        <title>Projektets 39 videnblade - print</title>        <link>http://friluftseffekter2009.dk/all/videnblade_friluftseffekter_samlet_print.pdf</link>        <description>Print version, 40 Mb</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2013-11-12T13:40:52Z</dc:date>        <dc:type>File</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/all/videnblade_friluftseffekter_samlet_web.pdf">        <title>Projektets 39 videnblade - web</title>        <link>http://friluftseffekter2009.dk/all/videnblade_friluftseffekter_samlet_web.pdf</link>        <description>Web version, 10 Mb</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2013-11-12T13:39:09Z</dc:date>        <dc:type>File</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/pdf.2013-11-12.1379170465">        <title>Forvaltningskataloget</title>        <link>http://friluftseffekter2009.dk/pdf.2013-11-12.1379170465</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2013-11-12T10:16:41Z</dc:date>        <dc:type>Pdf</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2010-08-16.5652170195">        <title>Videnblad 22: Dyre- og fugleiagttagelse (2)</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2010-08-16.5652170195</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>result</dc:subject>                <dc:date>2010-08-16T05:14:41Z</dc:date>        <dc:type>Pdf</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.4860085271/results/pdf.2010-03-01.4494003053">        <title>Videnblad 18: Simulering af ændret publikumsbelastning i Mols Bjerge</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.4860085271/results/pdf.2010-03-01.4494003053</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>result</dc:subject>                <dc:date>2010-03-01T09:48:50Z</dc:date>        <dc:type>Pdf</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2010-02-09.1735322401">        <title>Videnblad 19: Døgn-, uge- og årsrytme i naturbesøg</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2010-02-09.1735322401</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>result</dc:subject>                <dc:date>2010-02-09T13:47:22Z</dc:date>        <dc:type>Pdf</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2010-02-09.8644090357">        <title>Videnblad 20: Holdning til adgangsregulering (2)</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2010-02-09.8644090357</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>result</dc:subject>                <dc:date>2010-02-09T13:48:45Z</dc:date>        <dc:type>Pdf</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2010-02-09.4027343845">        <title>Videnblad 17: Simulering af besøgendes adfærd i skov- og naturområder</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2010-02-09.4027343845</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>result</dc:subject>                <dc:date>2010-02-09T08:53:23Z</dc:date>        <dc:type>Pdf</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2010-02-09.2906941386">        <title>Videnblad 21: Holdning til adgangsregulering (3)</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2010-02-09.2906941386</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>result</dc:subject>                <dc:date>2010-02-09T13:52:59Z</dc:date>        <dc:type>Pdf</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.4860085271/results/pdf.2009-12-17.5109491764">        <title>Videnblad 17: Simulering af besøgendes adfærd i skov- og naturområder</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.4860085271/results/pdf.2009-12-17.5109491764</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>result</dc:subject>                <dc:date>2009-12-17T11:10:42Z</dc:date>        <dc:type>Pdf</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2009-12-17.0540621293">        <title>Videnblad 16: Hvor langt rejser vi for at komme ud i naturen?</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2009-12-17.0540621293</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>result</dc:subject>                <dc:date>2009-12-17T11:09:58Z</dc:date>        <dc:type>Pdf</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2009-12-17.9799979708">        <title>[···]</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2009-12-17.9799979708</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2009-12-17T11:06:20Z</dc:date>        <dc:type>Pdf</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/pdf.2009-01-14.7382828457">        <title>Videnblad 15: Eksperimentel forstyrrelse af ynglende musvitter</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/pdf.2009-01-14.7382828457</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>result</dc:subject>                <dc:date>2009-01-14T10:10:04Z</dc:date>        <dc:type>Pdf</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/pdf.2009-01-14.6369847265">        <title>Videnblad 14: Effekten af menneskelig færdsel på musvitungers vægt</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/pdf.2009-01-14.6369847265</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>result</dc:subject>                <dc:date>2009-01-14T15:55:33Z</dc:date>        <dc:type>Pdf</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2008-12-01.4458395288">        <title>Videnblad 9: Holdning til adgangsregulering (1)</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2008-12-01.4458395288</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>result</dc:subject>                <dc:date>2009-01-16T12:29:18Z</dc:date>        <dc:type>Pdf</dc:type>    </item>
+
+
+
+</rdf:RDF>

@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+         xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://friluftseffekter2009.dk/search_rss">
+  <title>Friluftseffekter</title>
+  <link>http://friluftseffekter2009.dk</link>
+  
+  <description>
+    
+            These are the search results for the site for the query, showing results 60 to 75.
+        
+  </description>
+  
+  
+  
+  
+  <image rdf:resource="http://friluftseffekter2009.dk/logo.jpg"/>
+
+  <items>
+    <rdf:Seq>
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/forstyrrelse-langs-hegn_300.gif"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/levende-hegn-i-kornmark_300.gif"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/levende-hegn-i-kornmark.gif"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/kasse-med-9-unger.gif"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/fuglekasse.gif"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/forstyrrelse-langs-hegn.gif"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject.2006-01-06.8283101432/news/flere-resultater-fra-statusundersogelsen-af-friluftslivet"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject.2006-01-06.8283101432/news/lidt-om-skovgesters-adferd-konflikter-og-viden-om-regler"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject.2006-01-06.8283101432/results/lidt-om-skovgesters-adferd-konflikter-og-viden-om-regler"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject.2006-01-06.8283101432/results-en/fint"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject.2006-01-06.8283101432/results/skovgaesters_adfaerd_skoven_8_06.pdf"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.9637803772/staff"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.9637803772/results"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.9637803772/news"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.9637803772/staff/frank-sondergaard-jensen"/>
+        
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/forstyrrelse-langs-hegn_300.gif">        <title>Liniære habitaler, billede 1, 300</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/forstyrrelse-langs-hegn_300.gif</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-02-21T09:13:52Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/levende-hegn-i-kornmark_300.gif">        <title>Liniære habitaler, billede 1b</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/levende-hegn-i-kornmark_300.gif</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-02-21T09:10:55Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/levende-hegn-i-kornmark.gif">        <title>Liniære habitaler, billede 4</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/levende-hegn-i-kornmark.gif</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-02-21T09:05:52Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/kasse-med-9-unger.gif">        <title>Liniære habitaler, billede 3</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/kasse-med-9-unger.gif</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-02-21T09:05:10Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/fuglekasse.gif">        <title>Liniære habitaler, billede 2</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/fuglekasse.gif</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-02-21T09:04:27Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/forstyrrelse-langs-hegn.gif">        <title>Liniære habitaler, billede 1</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/forstyrrelse-langs-hegn.gif</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-02-21T09:03:13Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject.2006-01-06.8283101432/news/flere-resultater-fra-statusundersogelsen-af-friluftslivet">        <title>Flere resultater fra statusundersøgelsen af friluftslivet</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject.2006-01-06.8283101432/news/flere-resultater-fra-statusundersogelsen-af-friluftslivet</link>        <description>Der er flere nye resultater fra statusundersøgelsen af friluftslivet tilgængelige</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-01-21T21:39:34Z</dc:date>        <dc:type>News Item</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject.2006-01-06.8283101432/news/lidt-om-skovgesters-adferd-konflikter-og-viden-om-regler">        <title>Artikel fra Skoven 08 2006: Lidt om skovgæsters adfærd, konflikter og viden om regler</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject.2006-01-06.8283101432/news/lidt-om-skovgesters-adferd-konflikter-og-viden-om-regler</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2008-10-03T16:21:15Z</dc:date>        <dc:type>News Item</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject.2006-01-06.8283101432/results/lidt-om-skovgesters-adferd-konflikter-og-viden-om-regler">        <title>Lidt om skovgæsters adfærd, konflikter og viden om regler</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject.2006-01-06.8283101432/results/lidt-om-skovgesters-adferd-konflikter-og-viden-om-regler</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-01-12T15:32:33Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject.2006-01-06.8283101432/results-en/fint">        <title>fint</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject.2006-01-06.8283101432/results-en/fint</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-01-12T15:22:22Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject.2006-01-06.8283101432/results/skovgaesters_adfaerd_skoven_8_06.pdf">        <title>Lidt om skovgæsters adfærd, konflikter og viden om regler</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject.2006-01-06.8283101432/results/skovgaesters_adfaerd_skoven_8_06.pdf</link>        <description>Lidt om skovgæsters adfærd, konflikter og viden om regler. Artikel fra Skoven, 08 2006.
+Af Frank Søndergaard Jensen
+og Hans Skov-Petersen,
+Skov &amp; Landskab, KVL
+
+Opsummering af en række undersøgelser om skov-gæster. De fleste færdes i ret få områder af skoven. Mange går uden for veje og stier, men de går ikke langt væk. Meget få føler der er for mange skovgæster i skoven. Kun få skovgæster oplever konflikter med andre skovgæster – og når det sker er det ofte støj og løse hunde der er problemet. De fleste er positive over for at regulere adgangen hvis det sker for at beskytte naturen.</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>result</dc:subject>                <dc:date>2008-10-03T16:07:37Z</dc:date>        <dc:type>File</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.9637803772/staff">        <title>Medarbejdere</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.9637803772/staff</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2006-11-30T22:07:56Z</dc:date>        <dc:type>Staff</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.9637803772/results">        <title>Resultater</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.9637803772/results</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2006-11-29T10:29:21Z</dc:date>        <dc:type>Results</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.9637803772/news">        <title>Nyheder</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.9637803772/news</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2006-11-29T10:28:18Z</dc:date>        <dc:type>News</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.9637803772/staff/frank-sondergaard-jensen">        <title>Frank Søndergaard Jensen</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.9637803772/staff/frank-sondergaard-jensen</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2006-11-28T12:26:08Z</dc:date>        <dc:type>Participant</dc:type>    </item>
+
+
+
+</rdf:RDF>

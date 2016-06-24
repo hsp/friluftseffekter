@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+         xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://friluftseffekter2009.dk/search_rss">
+  <title>Friluftseffekter</title>
+  <link>http://friluftseffekter2009.dk</link>
+  
+  <description>
+    
+            These are the search results for the site for the query, showing results 90 to 105.
+        
+  </description>
+  
+  
+  
+  
+  <image rdf:resource="http://friluftseffekter2009.dk/logo.jpg"/>
+
+  <items>
+    <rdf:Seq>
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Organobank/flemming-skov"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-08-25.4820280903/staff/sandra-gentin"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-08-25.4820280903/staff/frank-sondergaard-jensen"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/project1/staff/hans-skov-petersen"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-08-25.4820280903/staff"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-08-25.4820280903/staff/hans-skov-petersen"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/project1/news/billedviewer-nu-tilgengelig-pa-nettet"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/introduktion/introduktion/introduktion"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/introduktion/introduktion"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/introduktion/lokaliteter/lokaliteter"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/introduktion/lokaliteter"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/introduktion/formidling/formidling"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/introduktion/formidling"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/introduktion/organisation/organisation"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/introduktion/organisation"/>
+        
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+    <item rdf:about="http://friluftseffekter2009.dk/Organobank/flemming-skov">        <title>Flemming Skov</title>        <link>http://friluftseffekter2009.dk/Organobank/flemming-skov</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2006-11-30T22:04:00Z</dc:date>        <dc:type>Person</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-08-25.4820280903/staff/sandra-gentin">        <title>[...]</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-08-25.4820280903/staff/sandra-gentin</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2006-08-26T17:01:18Z</dc:date>        <dc:type>Participant</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-08-25.4820280903/staff/frank-sondergaard-jensen">        <title>Frank Søndergaard Jensen</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-08-25.4820280903/staff/frank-sondergaard-jensen</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2006-08-26T17:00:24Z</dc:date>        <dc:type>Participant</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/project1/staff/hans-skov-petersen">        <title>Hans Skov-Petersen</title>        <link>http://friluftseffekter2009.dk/Subprojects/project1/staff/hans-skov-petersen</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2006-08-26T08:09:00Z</dc:date>        <dc:type>Participant</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-08-25.4820280903/staff">        <title>Staff</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-08-25.4820280903/staff</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2006-08-25T14:51:53Z</dc:date>        <dc:type>Staff</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-08-25.4820280903/staff/hans-skov-petersen">        <title>Hans Skov-Petersen</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-08-25.4820280903/staff/hans-skov-petersen</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2006-08-25T14:24:27Z</dc:date>        <dc:type>Participant</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/project1/news/billedviewer-nu-tilgengelig-pa-nettet">        <title>Slitage: Billedviewer nu tilgængelig på nettet</title>        <link>http://friluftseffekter2009.dk/Subprojects/project1/news/billedviewer-nu-tilgengelig-pa-nettet</link>        <description>Viewer til billeder og registreringer er nu til gængelige på Internettet. Man kan vælge i databasen at ser op til fire samtidige billeder/registreringer. </description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2008-10-03T16:22:23Z</dc:date>        <dc:type>News Item</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/introduktion/introduktion/introduktion">        <title>Introduktion</title>        <link>http://friluftseffekter2009.dk/introduktion/introduktion/introduktion</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2006-06-06T14:01:59Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/introduktion/introduktion">        <title>Introduktion</title>        <link>http://friluftseffekter2009.dk/introduktion/introduktion</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2006-06-06T13:56:32Z</dc:date>        <dc:type>Folder</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/introduktion/lokaliteter/lokaliteter">        <title>Lokaliteter</title>        <link>http://friluftseffekter2009.dk/introduktion/lokaliteter/lokaliteter</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2006-06-06T13:52:38Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/introduktion/lokaliteter">        <title>Lokaliteter</title>        <link>http://friluftseffekter2009.dk/introduktion/lokaliteter</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2006-06-06T13:52:38Z</dc:date>        <dc:type>Folder</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/introduktion/formidling/formidling">        <title>Formidling</title>        <link>http://friluftseffekter2009.dk/introduktion/formidling/formidling</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2006-06-06T13:51:55Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/introduktion/formidling">        <title>Formidling</title>        <link>http://friluftseffekter2009.dk/introduktion/formidling</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2006-06-06T13:51:55Z</dc:date>        <dc:type>Folder</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/introduktion/organisation/organisation">        <title>Organisation</title>        <link>http://friluftseffekter2009.dk/introduktion/organisation/organisation</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2006-06-06T13:50:38Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/introduktion/organisation">        <title>Organisation</title>        <link>http://friluftseffekter2009.dk/introduktion/organisation</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2006-06-06T13:50:38Z</dc:date>        <dc:type>Folder</dc:type>    </item>
+
+
+
+</rdf:RDF>

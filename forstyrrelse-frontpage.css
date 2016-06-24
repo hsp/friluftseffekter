@@ -1,0 +1,92 @@
+/*
+
+   (do not remove this)
+   (not this either)
+*/
+
+#header0 {
+  width:500px;
+}
+
+#wrapper1 {
+  float:left;
+  border:none;
+  width:500px;
+}
+
+#wrapper1 h1 {
+	font-family: Arial, "Lucida Grande", Verdana, Lucida, Helvetica, sans-serif;
+	font-weight:bold;
+    font-size:18px;
+}
+
+#wrapper1 p {
+	font-family: Arial, "Lucida Grande", Verdana, Lucida, Helvetica, sans-serif;
+    font-size:11px;
+}
+
+#wrapper0 {
+  width:100%;
+  display:block;
+}
+
+.clearboth { clear: both; }
+
+.frontpage-block {
+	width:200px;
+	float:left;
+	padding-right:10px;
+	padding-top:10px;
+	padding-left:0px;
+	overflow:hidden;
+	
+}
+
+.newsitems-block {
+	width:200px;
+	float:left;
+	padding-right:10px;
+	padding-top:0px;
+	padding-left:0px;
+	overflow:hidden;
+	border-bottom-width:1px;
+}
+
+.frontpage-block h2 {
+	padding-top:10px;
+	font-family: Arial, "Lucida Grande", Verdana, Lucida, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight:bold;
+	color:#514d39;
+}
+
+.readmore {
+	padding-bottom:10px;
+}
+
+.readmore a {
+	text-transform:uppercase;
+	font-family: Arial, "Lucida Grande", Verdana, Lucida, Helvetica, sans-serif;
+	font-size:9px;
+	font-weight:bold;
+	text-decoration:none;
+	color:#7f7c6d;
+}
+
+.frontPageHeadlineLine {
+	border-top-style:solid;
+	border-top-color:#7D7E6C;
+	border-top-width:1px;
+}
+
+.logo-floater img {
+	float:left;
+	margin-right: 6px;
+	padding-right: 10px;
+	
+}
+
+/*  */
+
+/* Latest version of the documentation on pre-defined properties from Plone 
+   can be found in CMFPlone/skins/plone_styles/ploneCustom.css */

@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+         xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://friluftseffekter2009.dk/news/nyheder/RSS">
+  <title>Nyheder</title>
+  <link>http://friluftseffekter2009.dk</link>
+  
+  <description>
+    
+       
+       
+  </description>
+  
+  
+  
+            <syn:updatePeriod>daily</syn:updatePeriod>
+            <syn:updateFrequency>1</syn:updateFrequency>
+            <syn:updateBase>2006-10-31T10:12:50Z</syn:updateBase>
+        
+  
+  <image rdf:resource="http://friluftseffekter2009.dk/logo.jpg"/>
+
+  <items>
+    <rdf:Seq>
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/introduktion/formidling/formidling-i-form-af-videnblade-er-nu-i-gang"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/news/fugle-i-liniere-habitater"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject.2006-01-06.8283101432/news/flere-resultater-fra-statusundersogelsen-af-friluftslivet"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject.2006-01-06.8283101432/news/lidt-om-skovgesters-adferd-konflikter-og-viden-om-regler"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/project1/news/powerpoints-fra-mmv3"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/project1/news/billedviewer-nu-tilgengelig-pa-nettet"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/portal_types/News%20Item"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/introduktion/organisation/referater-statusnoter-mm-2/status-for-projektets-fremdrift-i-2006"/>
+        
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+    <item rdf:about="http://friluftseffekter2009.dk/introduktion/formidling/formidling-i-form-af-videnblade-er-nu-i-gang">        <title>Formidling i form af Videnblade er nu i gang</title>        <link>http://friluftseffekter2009.dk/introduktion/formidling/formidling-i-form-af-videnblade-er-nu-i-gang</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2008-10-10T13:57:57Z</dc:date>        <dc:type>News Item</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/news/fugle-i-liniere-habitater">        <title>Fugle i lineære habitater: Resultater fra 2006 nu klar.</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/news/fugle-i-liniere-habitater</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-04-10T16:24:46Z</dc:date>        <dc:type>News Item</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject.2006-01-06.8283101432/news/flere-resultater-fra-statusundersogelsen-af-friluftslivet">        <title>Flere resultater fra statusundersøgelsen af friluftslivet</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject.2006-01-06.8283101432/news/flere-resultater-fra-statusundersogelsen-af-friluftslivet</link>        <description>Der er flere nye resultater fra statusundersøgelsen af friluftslivet tilgængelige</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-01-21T21:39:34Z</dc:date>        <dc:type>News Item</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject.2006-01-06.8283101432/news/lidt-om-skovgesters-adferd-konflikter-og-viden-om-regler">        <title>Artikel fra Skoven 08 2006: Lidt om skovgæsters adfærd, konflikter og viden om regler</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject.2006-01-06.8283101432/news/lidt-om-skovgesters-adferd-konflikter-og-viden-om-regler</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2008-10-03T16:21:15Z</dc:date>        <dc:type>News Item</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/project1/news/powerpoints-fra-mmv3">        <title>Slitage: Oplæg ved MMV3</title>        <link>http://friluftseffekter2009.dk/Subprojects/project1/news/powerpoints-fra-mmv3</link>        <description>HSP's PoverPoint præsentationfra konferencen MMV3 (Modelling and Monitoring Visitor flow)</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2008-10-07T06:27:16Z</dc:date>        <dc:type>News Item</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/project1/news/billedviewer-nu-tilgengelig-pa-nettet">        <title>Slitage: Billedviewer nu tilgængelig på nettet</title>        <link>http://friluftseffekter2009.dk/Subprojects/project1/news/billedviewer-nu-tilgengelig-pa-nettet</link>        <description>Viewer til billeder og registreringer er nu til gængelige på Internettet. Man kan vælge i databasen at ser op til fire samtidige billeder/registreringer. </description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2008-10-03T16:22:23Z</dc:date>        <dc:type>News Item</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/portal_types/News%20Item">        <title>News Item</title>        <link>http://friluftseffekter2009.dk</link>        <description>An announcement that will show up on the news portlet and in the news listing.</description>        <dc:publisher></dc:publisher>        <dc:creator></dc:creator>        <dc:rights></dc:rights>                <dc:date>2006-01-05T20:47:58Z</dc:date>        <dc:type>News Item</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/introduktion/organisation/referater-statusnoter-mm-2/status-for-projektets-fremdrift-i-2006">        <title>Status for projektets fremdrift i 2006</title>        <link>http://friluftseffekter2009.dk/introduktion/organisation/referater-statusnoter-mm-2/status-for-projektets-fremdrift-i-2006</link>        <description>Status rapport for 2006. Fremlagt ved styregruppemødet 12/10 2006.</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-02-22T09:19:43Z</dc:date>        <dc:type>News Item</dc:type>    </item>
+
+
+
+
+</rdf:RDF>

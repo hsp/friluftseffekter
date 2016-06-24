@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+         xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://friluftseffekter2009.dk/search_rss">
+  <title>Friluftseffekter</title>
+  <link>http://friluftseffekter2009.dk</link>
+  
+  <description>
+    
+            These are the search results for the site for the query, showing results 30 to 45.
+        
+  </description>
+  
+  
+  
+  
+  <image rdf:resource="http://friluftseffekter2009.dk/logo.jpg"/>
+
+  <items>
+    <rdf:Seq>
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Organobank/peter-oddersker"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Organobank/carsten-riis-olesen"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/forelobige-resultater-2005-2006-fra-201deffektstudier-pa-biodiversitet-liniere-habitater201d"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/news/fugle-i-liniere-habitater"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/apparat-til-maaling-af-fodringsrater.gif"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/introduktion/organisation/referater-statusnoter-mm-2"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/introduktion/organisation/referater-statusnoter-mm-2/status-for-projektets-fremdrift-i-2006"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/introduktion/organisation/referater-statusnoter-mm-2/statusrapport_3-styregruppemode_okt_2006.pdf"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/kasse-med-9-unger_300.gif"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/fuglekasse_300.gif"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/forstyrrelse-langs-hegn_300.gif"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/levende-hegn-i-kornmark_300.gif"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/levende-hegn-i-kornmark.gif"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/kasse-med-9-unger.gif"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/fuglekasse.gif"/>
+        
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+    <item rdf:about="http://friluftseffekter2009.dk/Organobank/peter-oddersker">        <title>Peter Odderskær</title>        <link>http://friluftseffekter2009.dk/Organobank/peter-oddersker</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-04-18T16:52:52Z</dc:date>        <dc:type>Person</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Organobank/carsten-riis-olesen">        <title>Carsten Riis Olesen</title>        <link>http://friluftseffekter2009.dk/Organobank/carsten-riis-olesen</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-04-18T16:52:07Z</dc:date>        <dc:type>Person</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/forelobige-resultater-2005-2006-fra-201deffektstudier-pa-biodiversitet-liniere-habitater201d">        <title>Foreløbige resultater 2005-2006 fra ”Effektstudier på biodiversitet - liniære habitater”. </title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/forelobige-resultater-2005-2006-fra-201deffektstudier-pa-biodiversitet-liniere-habitater201d</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-03-20T10:27:14Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/news/fugle-i-liniere-habitater">        <title>Fugle i lineære habitater: Resultater fra 2006 nu klar.</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/news/fugle-i-liniere-habitater</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-04-10T16:24:46Z</dc:date>        <dc:type>News Item</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/apparat-til-maaling-af-fodringsrater.gif">        <title>apparat til maaling af fodringsrater.gif</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/apparat-til-maaling-af-fodringsrater.gif</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-03-16T14:20:01Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/introduktion/organisation/referater-statusnoter-mm-2">        <title>Referater, statusnoter mm.</title>        <link>http://friluftseffekter2009.dk/introduktion/organisation/referater-statusnoter-mm-2</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-02-22T09:20:52Z</dc:date>        <dc:type>Folder</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/introduktion/organisation/referater-statusnoter-mm-2/status-for-projektets-fremdrift-i-2006">        <title>Status for projektets fremdrift i 2006</title>        <link>http://friluftseffekter2009.dk/introduktion/organisation/referater-statusnoter-mm-2/status-for-projektets-fremdrift-i-2006</link>        <description>Status rapport for 2006. Fremlagt ved styregruppemødet 12/10 2006.</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-02-22T09:19:43Z</dc:date>        <dc:type>News Item</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/introduktion/organisation/referater-statusnoter-mm-2/statusrapport_3-styregruppemode_okt_2006.pdf">        <title>Status rapport for 2006.</title>        <link>http://friluftseffekter2009.dk/introduktion/organisation/referater-statusnoter-mm-2/statusrapport_3-styregruppemode_okt_2006.pdf</link>        <description>Status rapport for 2006. Fremlagt ved styregruppemødet 12/10 2006.</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-02-22T09:19:04Z</dc:date>        <dc:type>File</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/kasse-med-9-unger_300.gif">        <title>Liniære habitaler, billede 3, 300</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/kasse-med-9-unger_300.gif</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-02-21T09:15:11Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/fuglekasse_300.gif">        <title>Liniære habitaler, billede 2, 300</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/fuglekasse_300.gif</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-02-21T09:14:32Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/forstyrrelse-langs-hegn_300.gif">        <title>Liniære habitaler, billede 1, 300</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/forstyrrelse-langs-hegn_300.gif</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-02-21T09:13:52Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/levende-hegn-i-kornmark_300.gif">        <title>Liniære habitaler, billede 1b</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/levende-hegn-i-kornmark_300.gif</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-02-21T09:10:55Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/levende-hegn-i-kornmark.gif">        <title>Liniære habitaler, billede 4</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/levende-hegn-i-kornmark.gif</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-02-21T09:05:52Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/kasse-med-9-unger.gif">        <title>Liniære habitaler, billede 3</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/kasse-med-9-unger.gif</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-02-21T09:05:10Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/fuglekasse.gif">        <title>Liniære habitaler, billede 2</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/fuglekasse.gif</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-02-21T09:04:27Z</dc:date>        <dc:type>Image</dc:type>    </item>
+
+
+
+</rdf:RDF>

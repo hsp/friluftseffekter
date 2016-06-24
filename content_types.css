@@ -1,0 +1,295 @@
+/*
+generate css selectors to apply on content types links
+(we're using that to render reference fields)
+
+IMPORTANT:
+replace *spaces* in content type id with *underscores*
+*/
+a.Discussion_Item {
+    background: transparent url("discussionitem_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.TempFolder {
+    background: transparent url("folder_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.Plone_Site {
+    background: transparent url("site_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.CMF_Image {
+    background: transparent url("image_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.CMF_Topic {
+    background: transparent url("topic_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.CMF_Large_Plone_Folder {
+    background: transparent url("folder_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.CMF_Document {
+    background: transparent url("document_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.CMF_Favorite {
+    background: transparent url("link_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.CMF_Event {
+    background: transparent url("event_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.CMF_Folder {
+    background: transparent url("folder_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.CMF_Link {
+    background: transparent url("link_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.CMF_News_Item {
+    background: transparent url("newsitem_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.CMF_File {
+    background: transparent url("file_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.TreeVocabularyTerm {
+    background: transparent url("folder_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.VdexTerm {
+    background: transparent url("folder_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.VdexVocabulary {
+    background: transparent url("folder_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.TreeVocabulary {
+    background: transparent url("folder_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.SimpleVocabulary {
+    background: transparent url("folder_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.VdexLangstring {
+    background: transparent url("document_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.SimpleVocabularyTerm {
+    background: transparent url("document_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.VdexMediaDescriptor {
+    background: transparent url("folder_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.VdexRelationEndPoint {
+    background: transparent url("document_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.AliasVocabulary {
+    background: transparent url("document_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.Organobank {
+    background: transparent url("folder_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.Projects {
+    background: transparent url("folder_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.Styregruppe {
+    background: transparent url("folder_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.compute {
+    background: transparent url("document_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.Institution {
+    background: transparent url("document_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.Registreringer {
+    background: transparent url("folder_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.Results {
+    background: transparent url("folder_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.Person {
+    background: transparent url("document_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.Ressources {
+    background: transparent url("folder_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.Subprojects {
+    background: transparent url("folder_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.Participant {
+    background: transparent url("document_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.Staff {
+    background: transparent url("folder_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.Registrering {
+    background: transparent url("image_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.SubProject_old {
+    background: transparent url("folder_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.SubProject {
+    background: transparent url("folder_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.News {
+    background: transparent url("folder_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.TopicNews {
+    background: transparent url("topic_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.MacroCacheRule {
+    background: transparent url("document_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.ContentCacheRule {
+    background: transparent url("document_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.RuleFolder {
+    background: transparent url("folder_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.HeaderSetFolder {
+    background: transparent url("folder_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.PolicyHTTPCacheManagerCacheRule {
+    background: transparent url("document_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.CacheTool {
+    background: transparent url("cachesetup_tool_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.TemplateCacheRule {
+    background: transparent url("document_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.HeaderSet {
+    background: transparent url("document_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.MacroFolder {
+    background: transparent url("folder_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.ATPathCriterion {
+    background: transparent url("document_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.ATBooleanCriterion {
+    background: transparent url("document_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.Image {
+    background: transparent url("image_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.Topic {
+    background: transparent url("topic_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.ATSelectionCriterion {
+    background: transparent url("document_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.Large_Plone_Folder {
+    background: transparent url("folder_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.Document {
+    background: transparent url("document_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.ATSimpleStringCriterion {
+    background: transparent url("document_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.ATCurrentAuthorCriterion {
+    background: transparent url("document_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.ATDateCriteria {
+    background: transparent url("document_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.Favorite {
+    background: transparent url("favorite_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.Event {
+    background: transparent url("event_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.ATReferenceCriterion {
+    background: transparent url("document_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.ATSimpleIntCriterion {
+    background: transparent url("document_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.ATListCriterion {
+    background: transparent url("document_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.Folder {
+    background: transparent url("folder_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.Link {
+    background: transparent url("link_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.News_Item {
+    background: transparent url("newsitem_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.File {
+    background: transparent url("file_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.ATDateRangeCriterion {
+    background: transparent url("document_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.ATSortCriterion {
+    background: transparent url("document_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.ATPortalTypeCriterion {
+    background: transparent url("document_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.Pdf {
+    background: transparent url("folder_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}

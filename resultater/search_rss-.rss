@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+         xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://friluftseffekter2009.dk/resultater/search_rss">
+  <title>Resultater</title>
+  <link>http://friluftseffekter2009.dk</link>
+  
+  <description>
+    
+            These are the search results for the site for the query, showing results 0 to 15.
+        
+  </description>
+  
+  
+  
+  
+  <image rdf:resource="http://friluftseffekter2009.dk/logo.jpg"/>
+
+  <items>
+    <rdf:Seq>
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject.2006-01-06.8283101432/results/skovgaesters_adfaerd_skoven_8_06.pdf"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.7376301898/results/pdf.2008-10-03.9339763652"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2008-10-03.4553353281"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2008-10-03.5747044635"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2008-10-03.6551592165"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2008-10-10.4990024230"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2008-10-10.9351199801"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2008-12-01.3497509893"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2008-12-01.8933650608"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2008-12-01.4458395288"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8903455661/results/pdf.2008-10-03.6711619963"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8903455661/results/pdf.2008-10-03.4720961801"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/pdf.2008-10-03.2184395448"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/pdf.2008-10-03.3455551791"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/pdf.2009-01-14.6369847265"/>
+        
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject.2006-01-06.8283101432/results/skovgaesters_adfaerd_skoven_8_06.pdf">        <title>Lidt om skovgæsters adfærd, konflikter og viden om regler</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject.2006-01-06.8283101432/results/skovgaesters_adfaerd_skoven_8_06.pdf</link>        <description>Lidt om skovgæsters adfærd, konflikter og viden om regler. Artikel fra Skoven, 08 2006.
+Af Frank Søndergaard Jensen
+og Hans Skov-Petersen,
+Skov &amp; Landskab, KVL
+
+Opsummering af en række undersøgelser om skov-gæster. De fleste færdes i ret få områder af skoven. Mange går uden for veje og stier, men de går ikke langt væk. Meget få føler der er for mange skovgæster i skoven. Kun få skovgæster oplever konflikter med andre skovgæster – og når det sker er det ofte støj og løse hunde der er problemet. De fleste er positive over for at regulere adgangen hvis det sker for at beskytte naturen.</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>result</dc:subject>                <dc:date>2008-10-03T16:07:37Z</dc:date>        <dc:type>File</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.7376301898/results/pdf.2008-10-03.9339763652">        <title>Videnblad 1: Introduktion til Projektet Friluftslivets Effekter på Naturen</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.7376301898/results/pdf.2008-10-03.9339763652</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>result</dc:subject>                <dc:date>2009-01-14T09:44:01Z</dc:date>        <dc:type>Pdf</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2008-10-03.4553353281">        <title>Videnblad 2: Interviewundersøgelse i tre danske naturområderbedt</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2008-10-03.4553353281</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>result</dc:subject>                <dc:date>2009-01-14T09:43:05Z</dc:date>        <dc:type>Pdf</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2008-10-03.5747044635">        <title>Videnblad 3: Få information på mobilen i naturen</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2008-10-03.5747044635</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>result</dc:subject>                <dc:date>2009-01-14T09:44:34Z</dc:date>        <dc:type>Pdf</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2008-10-03.6551592165">        <title>Videnblad 4: Dyre- og fugleiagttagelser (1): Hvor mange og hvem ser på dyr og fugle?</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2008-10-03.6551592165</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>result</dc:subject>                <dc:date>2009-01-14T09:45:02Z</dc:date>        <dc:type>Pdf</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2008-10-10.4990024230">        <title>Videnblad 5. Oplevelse af forstyrrelse (1): Er andre besøgende et problem?</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2008-10-10.4990024230</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>result</dc:subject>                <dc:date>2009-01-14T09:45:24Z</dc:date>        <dc:type>Pdf</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2008-10-10.9351199801">        <title>Videnblad 6: Oplevelse af forstyrrelse (2). Hvad er der galt i at møde andre – og vil adskillelse af brugertyper hjælpe?</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2008-10-10.9351199801</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>result</dc:subject>                <dc:date>2009-03-05T08:52:20Z</dc:date>        <dc:type>Pdf</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2008-12-01.3497509893">        <title>Videnblad 7: Hvordan finder vi vej rundt i naturen?</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2008-12-01.3497509893</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>result</dc:subject>                <dc:date>2009-01-14T09:46:45Z</dc:date>        <dc:type>Pdf</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2008-12-01.8933650608">        <title>Videnblad 8: Færdsel uden for veje og stier</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2008-12-01.8933650608</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>result</dc:subject>                <dc:date>2009-01-14T09:47:10Z</dc:date>        <dc:type>Pdf</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2008-12-01.4458395288">        <title>Videnblad 9: Holdning til adgangsregulering (1)</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results/pdf.2008-12-01.4458395288</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>result</dc:subject>                <dc:date>2009-01-16T12:29:18Z</dc:date>        <dc:type>Pdf</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8903455661/results/pdf.2008-10-03.6711619963">        <title>Videnblad 10: Effekter af forstyrrelse på rovfugle: nye undersøgelser</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8903455661/results/pdf.2008-10-03.6711619963</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>result</dc:subject>                <dc:date>2009-01-14T09:48:14Z</dc:date>        <dc:type>Pdf</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8903455661/results/pdf.2008-10-03.4720961801">        <title>Videnblad 11: Undersøgelser af menneskelig forstyrrelse på musvågen</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8903455661/results/pdf.2008-10-03.4720961801</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>result</dc:subject>                <dc:date>2009-01-14T09:48:00Z</dc:date>        <dc:type>Pdf</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/pdf.2008-10-03.2184395448">        <title>Videnblad 12: Menneskelige forstyrrelsers effekt på spurvefugles diversitet og tætheder i levende hegn</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/pdf.2008-10-03.2184395448</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>result</dc:subject>                <dc:date>2009-01-14T09:48:55Z</dc:date>        <dc:type>Pdf</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/pdf.2008-10-03.3455551791">        <title>Videnblad 13: Menneskelige forstyrrelsers effekt på musvitters ynglesuccess i levende hegn</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/pdf.2008-10-03.3455551791</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>result</dc:subject>                <dc:date>2009-01-14T09:49:10Z</dc:date>        <dc:type>Pdf</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/pdf.2009-01-14.6369847265">        <title>Videnblad 14: Effekten af menneskelig færdsel på musvitungers vægt</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/pdf.2009-01-14.6369847265</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>result</dc:subject>                <dc:date>2009-01-14T15:55:33Z</dc:date>        <dc:type>Pdf</dc:type>    </item>
+
+
+
+</rdf:RDF>

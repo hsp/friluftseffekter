@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+         xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://friluftseffekter2009.dk/search_rss">
+  <title>Friluftseffekter</title>
+  <link>http://friluftseffekter2009.dk</link>
+  
+  <description>
+    
+            These are the search results for the site for the query, showing results 0 to 15.
+        
+  </description>
+  
+  
+  
+  
+  <image rdf:resource="http://friluftseffekter2009.dk/logo.jpg"/>
+
+  <items>
+    <rdf:Seq>
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Members/bes-en"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/news-en"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/staff-en"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results-en"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8903455661/results-en"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results-en"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/portal_vocabularies/nulproeve/111"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Members/bes/test"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/portal_vocabularies/nulproeve/224"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/portal_vocabularies/nulproeve/223"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/portal_vocabularies/nulproeve/222"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/portal_vocabularies/nulproeve/221"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/portal_vocabularies/nulproeve/215"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/portal_vocabularies/nulproeve/214"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/portal_vocabularies/nulproeve/213"/>
+        
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+    <item rdf:about="http://friluftseffekter2009.dk/Members/bes-en">        <title>bes-en</title>        <link>http://friluftseffekter2009.dk/Members/bes-en</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>bes</dc:creator>        <dc:rights></dc:rights>                <dc:date>2009-06-15T07:21:31Z</dc:date>        <dc:type>Folder</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/news-en">        <title>News</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/news-en</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>bes</dc:creator>        <dc:rights></dc:rights>                <dc:date>2008-10-05T08:22:36Z</dc:date>        <dc:type>News</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/staff-en">        <title>Staff</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/staff-en</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>bes</dc:creator>        <dc:rights></dc:rights>                <dc:date>2008-10-05T08:22:15Z</dc:date>        <dc:type>Staff</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results-en">        <title>Results</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/results-en</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>bes</dc:creator>        <dc:rights></dc:rights>                <dc:date>2008-10-05T08:19:25Z</dc:date>        <dc:type>Results</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8903455661/results-en">        <title>Results</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8903455661/results-en</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>bes</dc:creator>        <dc:rights></dc:rights>                <dc:date>2008-10-05T08:00:08Z</dc:date>        <dc:type>Results</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results-en">        <title>Results</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results-en</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>bes</dc:creator>        <dc:rights></dc:rights>                <dc:date>2008-10-05T07:41:33Z</dc:date>        <dc:type>Results</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/portal_vocabularies/nulproeve/111">        <title>4.8</title>        <link>http://friluftseffekter2009.dk/portal_vocabularies/nulproeve/111</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>bes</dc:creator>        <dc:rights></dc:rights>                <dc:date>2006-07-08T08:06:26Z</dc:date>        <dc:type>Simple Vocabulary Term</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Members/bes/test">        <title>test</title>        <link>http://friluftseffekter2009.dk/Members/bes/test</link>        <description>test</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>bes</dc:creator>        <dc:rights></dc:rights>                <dc:date>2006-06-27T07:01:58Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/portal_vocabularies/nulproeve/224">        <title>8.2</title>        <link>http://friluftseffekter2009.dk/portal_vocabularies/nulproeve/224</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>bes</dc:creator>        <dc:rights></dc:rights>                <dc:date>2006-05-23T07:33:42Z</dc:date>        <dc:type>Simple Vocabulary Term</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/portal_vocabularies/nulproeve/223">        <title>8.5</title>        <link>http://friluftseffekter2009.dk/portal_vocabularies/nulproeve/223</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>bes</dc:creator>        <dc:rights></dc:rights>                <dc:date>2006-05-23T07:32:54Z</dc:date>        <dc:type>Simple Vocabulary Term</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/portal_vocabularies/nulproeve/222">        <title>4.4</title>        <link>http://friluftseffekter2009.dk/portal_vocabularies/nulproeve/222</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>bes</dc:creator>        <dc:rights></dc:rights>                <dc:date>2006-05-23T07:31:55Z</dc:date>        <dc:type>Simple Vocabulary Term</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/portal_vocabularies/nulproeve/221">        <title>4.6</title>        <link>http://friluftseffekter2009.dk/portal_vocabularies/nulproeve/221</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>bes</dc:creator>        <dc:rights></dc:rights>                <dc:date>2006-05-23T07:31:32Z</dc:date>        <dc:type>Simple Vocabulary Term</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/portal_vocabularies/nulproeve/215">        <title>9.5</title>        <link>http://friluftseffekter2009.dk/portal_vocabularies/nulproeve/215</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>bes</dc:creator>        <dc:rights></dc:rights>                <dc:date>2006-05-23T07:31:07Z</dc:date>        <dc:type>Simple Vocabulary Term</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/portal_vocabularies/nulproeve/214">        <title>7.2</title>        <link>http://friluftseffekter2009.dk/portal_vocabularies/nulproeve/214</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>bes</dc:creator>        <dc:rights></dc:rights>                <dc:date>2006-05-23T07:30:44Z</dc:date>        <dc:type>Simple Vocabulary Term</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/portal_vocabularies/nulproeve/213">        <title>10.5</title>        <link>http://friluftseffekter2009.dk/portal_vocabularies/nulproeve/213</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>bes</dc:creator>        <dc:rights></dc:rights>                <dc:date>2006-05-23T07:30:23Z</dc:date>        <dc:type>Simple Vocabulary Term</dc:type>    </item>
+
+
+
+</rdf:RDF>

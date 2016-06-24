@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+         xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://friluftseffekter2009.dk/search_rss">
+  <title>Friluftseffekter</title>
+  <link>http://friluftseffekter2009.dk</link>
+  
+  <description>
+    
+            These are the search results for the site for the query, showing results 30 to 45.
+        
+  </description>
+  
+  
+  
+  
+  <image rdf:resource="http://friluftseffekter2009.dk/logo.jpg"/>
+
+  <items>
+    <rdf:Seq>
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/fig5.jpg"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/fig3.jpg"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/Musvitter_i_kasse.jpg"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/fuglekasse.jpg"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/menneskelige-forstyrrelsers-effekt-pa-spurvefugles-diversitet-og-tetheder-i-levende-hegn"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/vej.jpg"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/tornsanger.jpg"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/tabel-Fugle-typer.jpg"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/hegn_mand.jpg"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/grusvej.jpg"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/diagram-2.jpg"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/diagram-1.jpg"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/doede_unger_i_kasse.jpg"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Organobank/rita-merete-buttenschon"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Organobank/thorild-wrang-bennett"/>
+        
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/fig5.jpg">        <title>fig5</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/fig5.jpg</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2008-01-02T10:40:28Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/fig3.jpg">        <title>Fig3</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/fig3.jpg</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2008-01-02T10:39:06Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/Musvitter_i_kasse.jpg">        <title>Musvitter_i_kasse.jpg</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/Musvitter_i_kasse.jpg</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2008-01-02T10:31:03Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/fuglekasse.jpg">        <title>fuglekasse.jpg</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/fuglekasse.jpg</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2008-01-02T10:30:51Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/menneskelige-forstyrrelsers-effekt-pa-spurvefugles-diversitet-og-tetheder-i-levende-hegn">        <title>Menneskelige forstyrrelsers effekt på spurvefugles diversitet og tætheder i levende hegn</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/menneskelige-forstyrrelsers-effekt-pa-spurvefugles-diversitet-og-tetheder-i-levende-hegn</link>        <description>Fugle der yngler i levende hegn kan være følsomme over for færdsel. Denne undersøgelse viser at antallet af fuglearter i levende hegn falder med stigende færdsel langs hegnene, mens antallet af individer er stabilt.
+</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2008-01-02T10:23:21Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/vej.jpg">        <title>vej.jpg</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/vej.jpg</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2008-01-02T10:15:07Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/tornsanger.jpg">        <title>tornsanger.jpg</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/tornsanger.jpg</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2008-01-02T10:14:51Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/tabel-Fugle-typer.jpg">        <title>tabel-Fugle-typer.jpg</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/tabel-Fugle-typer.jpg</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2008-01-02T10:14:20Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/hegn_mand.jpg">        <title>hegn_mand.jpg</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/hegn_mand.jpg</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2008-01-02T10:14:10Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/grusvej.jpg">        <title>grusvej.jpg</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/grusvej.jpg</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2008-01-02T10:13:52Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/diagram-2.jpg">        <title>diagram-2.jpg</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/diagram-2.jpg</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2008-01-02T10:13:32Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/diagram-1.jpg">        <title>diagram-1.jpg</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/diagram-1.jpg</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2008-01-02T10:13:05Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/doede_unger_i_kasse.jpg">        <title>Døde unger i kasse</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results/doede_unger_i_kasse.jpg</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2008-01-02T10:07:46Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Organobank/rita-merete-buttenschon">        <title>Rita Merete Buttenschøn</title>        <link>http://friluftseffekter2009.dk/Organobank/rita-merete-buttenschon</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-04-18T17:24:32Z</dc:date>        <dc:type>Person</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Organobank/thorild-wrang-bennett">        <title>Thorild Wrang Bennett </title>        <link>http://friluftseffekter2009.dk/Organobank/thorild-wrang-bennett</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>hsp</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-04-18T16:57:08Z</dc:date>        <dc:type>Person</dc:type>    </item>
+
+
+
+</rdf:RDF>

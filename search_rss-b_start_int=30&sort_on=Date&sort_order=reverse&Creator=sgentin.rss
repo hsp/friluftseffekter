@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+         xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://friluftseffekter2009.dk/search_rss">
+  <title>Friluftseffekter</title>
+  <link>http://friluftseffekter2009.dk</link>
+  
+  <description>
+    
+            These are the search results for the site for the query, showing results 30 to 45.
+        
+  </description>
+  
+  
+  
+  
+  <image rdf:resource="http://friluftseffekter2009.dk/logo.jpg"/>
+
+  <items>
+    <rdf:Seq>
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.3054019941"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.3054019941/news"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.3054019941/staff"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.3054019941/staff/participant.2006-11-29.7601344280"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.3054019941/staff/hans-skov-petersen"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.3054019941/staff/frank-sondergaard-jensen"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.4860085271"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.4860085271/news"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.4860085271/staff/flemming-skov"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.4860085271/staff"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/news"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/staff"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383"/>
+        
+        
+            <rdf:li rdf:resource="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/staff/sandra-gentin"/>
+        
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.3054019941">        <title>Evaluering af naturforvaltningsmetoder</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.3054019941</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>sgentin</dc:creator>        <dc:rights></dc:rights>                <dc:date>2008-10-03T16:25:39Z</dc:date>        <dc:type>SubProject</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.3054019941/news">        <title>Nyheder</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.3054019941/news</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>sgentin</dc:creator>        <dc:rights></dc:rights>                <dc:date>2006-11-29T10:24:36Z</dc:date>        <dc:type>News</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.3054019941/staff">        <title>Medarbejdere</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.3054019941/staff</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>sgentin</dc:creator>        <dc:rights></dc:rights>                <dc:date>2006-11-29T10:23:49Z</dc:date>        <dc:type>Staff</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.3054019941/staff/participant.2006-11-29.7601344280">        <title>[...]</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.3054019941/staff/participant.2006-11-29.7601344280</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>sgentin</dc:creator>        <dc:rights></dc:rights>                <dc:date>2006-11-29T10:22:40Z</dc:date>        <dc:type>Participant</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.3054019941/staff/hans-skov-petersen">        <title>Hans Skov-Petersen</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.3054019941/staff/hans-skov-petersen</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>sgentin</dc:creator>        <dc:rights></dc:rights>                <dc:date>2006-11-29T10:22:29Z</dc:date>        <dc:type>Participant</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.3054019941/staff/frank-sondergaard-jensen">        <title>Frank Søndergaard Jensen</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.3054019941/staff/frank-sondergaard-jensen</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>sgentin</dc:creator>        <dc:rights></dc:rights>                <dc:date>2006-11-29T10:22:03Z</dc:date>        <dc:type>Participant</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.4860085271">        <title>Scenarier for friluftslivets påvirkninger af naturen</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.4860085271</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>sgentin</dc:creator>        <dc:rights></dc:rights>                <dc:date>2006-11-29T10:11:55Z</dc:date>        <dc:type>SubProject</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.4860085271/news">        <title>Nyheder</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.4860085271/news</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>sgentin</dc:creator>        <dc:rights></dc:rights>                <dc:date>2006-11-29T10:10:54Z</dc:date>        <dc:type>News</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.4860085271/staff/flemming-skov">        <title>Flemming Skov</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.4860085271/staff/flemming-skov</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>sgentin</dc:creator>        <dc:rights></dc:rights>                <dc:date>2006-11-29T10:09:21Z</dc:date>        <dc:type>Participant</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.4860085271/staff">        <title>Medarbejdere</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.4860085271/staff</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>sgentin</dc:creator>        <dc:rights></dc:rights>                <dc:date>2006-11-29T10:08:56Z</dc:date>        <dc:type>Staff</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results">        <title>Resultater</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/results</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>sgentin</dc:creator>        <dc:rights></dc:rights>                <dc:date>2008-10-05T07:41:33Z</dc:date>        <dc:type>Results</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/news">        <title>Nyheder</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/news</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>sgentin</dc:creator>        <dc:rights></dc:rights>                <dc:date>2006-11-29T09:27:36Z</dc:date>        <dc:type>News</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/staff">        <title>Medarbejdere</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-28.6921434241/staff</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>sgentin</dc:creator>        <dc:rights></dc:rights>                <dc:date>2006-11-29T09:24:40Z</dc:date>        <dc:type>Staff</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383">        <title>Besøgendes oplevelse af forstyrrelse: On-site interview undersøgelse</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>sgentin</dc:creator>        <dc:rights></dc:rights>                <dc:date>2006-11-29T09:22:35Z</dc:date>        <dc:type>SubProject</dc:type>    </item>
+    <item rdf:about="http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/staff/sandra-gentin">        <title>Sandra Gentin</title>        <link>http://friluftseffekter2009.dk/Subprojects/subproject_old.2006-11-29.8299767383/staff/sandra-gentin</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>sgentin</dc:creator>        <dc:rights></dc:rights>                <dc:date>2006-11-29T09:09:10Z</dc:date>        <dc:type>Participant</dc:type>    </item>
+
+
+
+</rdf:RDF>
